@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: yellowgreen;
+}
+.container {
+  width: 980px;
+  margin: auto;
+  background-color: tomato;
+}
+.container-left {
+
+}
+.logo {
+
+}
+.menu {
+
+}
